@@ -1,7 +1,7 @@
 package dz4;
 
 import java.util.Scanner;
-public class Main {
+public class Zoo {
     public static void main(String[] args) {
         String camel = """
             Switching on the camera in the camel habitat...
